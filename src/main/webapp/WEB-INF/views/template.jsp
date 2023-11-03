@@ -7,23 +7,22 @@
 <meta charset="UTF-8">
 <%@ include file="/WEB-INF/views/inc/asset.jsp" %>
 <style>
-	
+   
 </style>
 </head>
 <body>
-	<!-- template.jsp -->
-	<%@ include file="/WEB-INF/views/inc/header.jsp" %>
-	<main id="main">
-		<h1>콘텐츠 제목 <small>부제</small></h1>
-		콘텐츠 내용
-	</main>
-	
-	<script>
-		
-	</script>
+   <!-- template.jsp -->
+   <%@ include file="/WEB-INF/views/inc/header.jsp" %>
+   <main id="main">
+      <h1>콘텐츠 제목 <small>부제</small></h1>
+      콘텐츠 내용
+   </main>
+   
+   <script>
+      
+   </script>
 </body>
 </html>
-
 
 
 
