@@ -129,7 +129,7 @@ h6,
 }
 
 .bg-hero {
-    background: linear-gradient(rgba(34, 36, 41, .8), rgba(34, 36, 41, .8)), url(../img/carousel-1.jpg) top center no-repeat;
+    background: linear-gradient(rgba(34, 36, 41, .8), rgba(34, 36, 41, .8)), url(../image/carousel-1.jpg) top center no-repeat;
     background-size: cover;
 }
 
@@ -218,4 +218,30 @@ h6,
     .credit {
         background: var(--primary);
     }
+}
+
+/* 임시 메인 썸네일용 CSS */
+.main-thumbnail {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.best-attraction {
+    padding-bottom: 10px;
+}
+
+@font-face {
+    font-family: 'JalnanGothic';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_231029@1.1/JalnanGothic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.material-symbols-outlined {
+font-variation-settings:
+'FILL' 0,
+'wght' 400,
+'GRAD' 0,
+'opsz' 24
 }
