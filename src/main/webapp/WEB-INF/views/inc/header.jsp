@@ -24,7 +24,7 @@
 					</button>
 					<div class="collapse navbar-collapse justify-content-between"
 						id="navbarCollapse"
-						style="font-size: 1.2rem; font-family: 'JalnanGothic';">
+						style="font-size: 1.2rem; font-family:'JalnanGothic';">
 						<div class="navbar-nav mr-auto py-0">
 							<a href="index.html" class="nav-item nav-link active"><span
 								class="material-symbols-outlined" style="margin-left: 30px;">Local_Activity</span>
@@ -44,9 +44,7 @@
 								class="material-symbols-outlined" style="margin-left: 5px;">book_online</span>
 							<div>예매</div></a>
 						</div>
-						<a href=""
-							class="btn btn-primary py-md-3 px-md-5 d-none d-lg-block">Join
-							Us</a>
+						<a href="" class="btn btn-primary py-md-3 px-md-5 d-none d-lg-block">Join Us</a>
 					</div>
 				</nav>
 			</div>
