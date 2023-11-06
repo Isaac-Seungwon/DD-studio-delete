@@ -38,3 +38,6 @@
 
 <!-- Template Javascript -->
 <script src="/ddstudio/asset/js/main.js"></script>
+
+<!-- fontawesome -->
+<script src="https://kit.fontawesome.com/a92e13dcf8.js" crossorigin="anonymous"></script>

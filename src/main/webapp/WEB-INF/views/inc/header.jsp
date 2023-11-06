@@ -15,10 +15,10 @@
 				<nav class="navbar navbar-expand-lg p-3 p-lg-0 px-lg-5"
 					style="margin-top: 13px;">
 					<a href="index.html" class="navbar-brand d-block d-lg-none">
-						<h1 class="m-0 display-4 text-primary text-uppercase">Gymster</h1>
+						<h1 class="m-0 display-4 text-primary text-uppercase">DD Studio</h1>
 					</a>
 					<button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
-						<span class="navbar-toggler-icon"></span>
+						<span class="navbar-toggler-icon"><i class="fa-solid fa-bars"></i></span>
 					</button>
 					<div class="collapse navbar-collapse justify-content-between" id="navbarCollapse" style="font-size: 1.2rem; font-family: 'JalnanGothic';">
 						<div class="navbar-nav mr-auto py-0">
