@@ -28,4 +28,9 @@ replay_pid*
 
 # End of https://www.toptal.com/developers/gitignore/api/java
 
+<<<<<<< HEAD
 .classpath
+=======
+.classpath
+>>>>>>> 6bbcdd6c26461299d49ffc24b3ca308938ed914f
+/bin/
