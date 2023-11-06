@@ -8011,6 +8011,10 @@ div.col-lg-9 > nav > button > span > i {
     padding: 3rem !important
 }
 
+.p-6 {
+	padding: 0 100px !important
+}
+
 .px-0 {
     padding-right: 0 !important;
     padding-left: 0 !important
